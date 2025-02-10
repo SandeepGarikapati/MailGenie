@@ -1,6 +1,6 @@
-# 📧 Gmail Reply Helper
+# 📧🧞 MailGenie 
 
-🚀 **Gmail Reply Helper** is an AI-powered browser extension designed to help users generate email responses effortlessly. By selecting a preferred tone, users can quickly craft context-aware replies, enhancing productivity and streamlining email communication.
+🚀 **MailGenie** is an AI-powered browser extension designed to help users generate email responses effortlessly. By selecting a preferred tone, users can quickly craft context-aware replies, enhancing productivity and streamlining email communication.
 
 ---
 
@@ -28,7 +28,10 @@
 ---
 
 ## ⚙️ How to Use
-1. FrontEnd to generate the reply to the email
+1. Front-End to generate the reply to the email
+![screenshot-1](images/image-1.png)
+
+
 
 
 
