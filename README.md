@@ -27,6 +27,13 @@
    
 ---
 
+## ⚙️ How to Use
+1. FrontEnd to generate the reply to the email
+
+
+
+---
+
 ## 📦 Technologies Used
 1. SpringBoot for Backend
 2. JavaScript – Core extension logic.
